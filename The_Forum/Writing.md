@@ -1,3 +1,4 @@
+[Link](https://www.youtube.com/watch?v=z2MG2BumVMo&t=1468s)
 <div style="text-align: center;">
 <img src="Images/Screenshot from 2024-08-28 23-26-08.png" alt="" width="800" height="600">
 <p><em>Đề thi</em></p>
