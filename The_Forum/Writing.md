@@ -1,9 +1,9 @@
-[Link](https://www.youtube.com/watch?v=z2MG2BumVMo&t=1468s)
 <div style="text-align: center;">
 <img src="Images/Screenshot from 2024-08-28 23-26-08.png" alt="" width="800" height="600">
 <p><em>Đề thi</em></p>
 </div>
    
+[Link](https://www.youtube.com/watch?v=z2MG2BumVMo&t=1468s)
 - **Đoạn mở bài lên có câu giải thích biểu đồ tả cái gì, cái nào tăng cái nào giảm(main trend) hoặc cái nào lớn nhất, cái nào bé nhất.**
 
 The pie chart provide information about the proportions of online sales derived from four major sectors in New Zealand in 2003 and 2013. Overall, the percentages of sales generated from travel products or services and clothes decreased. While the reverse was true for the contribution of books and film/music.
