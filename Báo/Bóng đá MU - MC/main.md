@@ -136,7 +136,7 @@
 10. **The thrilling ending was hardly in keeping with a sometimes stodgy occasion as both sides struggled to reach their highest levels.**
 
     - **Cấu trúc câu:** Câu phức (Complex Sentence)
-      - **The thrilling ending was hardly in keeping with a sometimes stodgy occasion**: Mệnh đề chính với tính từ "in keeping with".  
+      - **The thrilling ending was hardly in keeping with a sometimes stodgy occasion**: Mệnh đề chính với tính từ "in keeping with".
 
       - **as both sides struggled to reach their highest levels**: Mệnh đề trạng ngữ chỉ lý do (as).
 
