@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-<img src="Images/Screenshot from 2024-08-28 23-26-08.png" alt="" width="800" height="600">
+<img src="../Images/Screenshot from 2024-08-28 23-26-08.png" alt="" width="800" height="600">
 <p><em>Đề thi</em></p>
 </div>
    
@@ -11,7 +11,7 @@ The pie chart provide information about the proportions of online sales derived 
 ---
 - **Có bao nhiêu chart thì viết bấy nhiêu đoạn**  
 
-In 2003, New Zealand displayed a heavy reliance on travel products and services to generate online sales as this sector contributed 36% to the overall figure. Another 24% was generated thanks to the sales of clothes, while around one-fifth was contributed by selling film and music products. Although the online sales of books contributed the least tho the entire sector, with 19%, this figure was still substantially compared to the three other segments.   
+In 2003, New Zealand displayed a heavy reliance on travel products and services to generate online sales as this sector contributed 36% to the overall figure. Another 24% was generated thanks to the sales of clothes, while around one-fifth was contributed by selling film and music products. Although the online sales of books contributed the least to the entire sector, with 19%, this figure was still substantially compared to the three other segments.   
 
 ---
 - **Với mỗi chart lên miêu tả bởi 1 đoạn, mỗi đoạn tránh lặp lại cấu trúc câu mở đầu của đoạn trước, Ví dụ ở đoạn ở trên mở đầu bằng "In 2003", đoạn 2 này ta ko sử dụng "In 2013"**   
